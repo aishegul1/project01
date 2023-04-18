@@ -1,5 +1,5 @@
 # project01
-***************** COFFEE MACHINE PROJECT TASK ***************
+*************************** COFFEE MACHINE PROJECT TASK ***************
 
 1. Build a simple Coffee machine. Let's have 3 kinds of coffee. 2. Let the system ask: "Which Coffee would you like?" 3. Let the user see the coffee information with this question. Example: Which Coffee Would You Like? 1.Turkish Coffee 2.Filter Coffee 3.Espresso
          Create the String whichCoffee and write one of the existing coffees. (eg: Turkish Coffee, or Turkish coffee. ---> Use the String method to avoid case insensitivity.) todo 1. Condition section If the coffee is Turkish coffee, console = Turkish coffee is being prepared. (Do not write plain Turkish coffee. Call String WhichKahve!!) If it is filter coffee, console = Filter coffee is being prepared. write it. (Use whichKahve String !) If it is Espresso, write = Preparing Espresso... in the console. (Use String whichKahve !) If you enter the wrong letter, you have entered the console = Wrong keying. write it. (The code will continue to work after a miskey, you haven't seen that topic yet, so start over.)
